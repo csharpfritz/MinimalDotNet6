@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactApi", "ContactApi\ContactApi.csproj", "{E4E9429A-A077-41F6-881A-B9891BBCD3C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactApp", "ContactApp\ContactApp.csproj", "{8E439FD1-7D87-4E4A-A50D-DE176659F223}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalWinForms", "MinimalWinForms\MinimalWinForms.csproj", "{ACD5F397-B7F5-4030-AD62-BD5E76AF9F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E9429A-A077-41F6-881A-B9891BBCD3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E9429A-A077-41F6-881A-B9891BBCD3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E9429A-A077-41F6-881A-B9891BBCD3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E9429A-A077-41F6-881A-B9891BBCD3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E439FD1-7D87-4E4A-A50D-DE176659F223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E439FD1-7D87-4E4A-A50D-DE176659F223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E439FD1-7D87-4E4A-A50D-DE176659F223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E439FD1-7D87-4E4A-A50D-DE176659F223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD5F397-B7F5-4030-AD62-BD5E76AF9F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD5F397-B7F5-4030-AD62-BD5E76AF9F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD5F397-B7F5-4030-AD62-BD5E76AF9F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD5F397-B7F5-4030-AD62-BD5E76AF9F70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
